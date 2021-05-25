@@ -1,1 +1,1 @@
-# maze_cpp
+Code I wrote in preparation of the DSA unit for Autumn 2021. A long time ago I wrote a python program that generated, solved, and printed a maze automatically, but I've since lost it since both computers that had the program had their hard drives corrupted. Loved that project, and since i was doing an algorithms course later that semester, I thought what better way to prepare :^)
